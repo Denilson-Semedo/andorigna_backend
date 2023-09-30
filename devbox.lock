@@ -1,0 +1,23 @@
+{
+  "lockfile_version": "1",
+  "packages": {
+    "jq@latest": {
+      "last_modified": "2023-09-19T14:14:51Z",
+      "resolved": "github:NixOS/nixpkgs/8b5ab8341e33322e5b66fb46ce23d724050f6606#jq",
+      "source": "devbox-search",
+      "version": "1.6"
+    },
+    "pre-commit@latest": {
+      "last_modified": "2023-09-19T14:14:51Z",
+      "resolved": "github:NixOS/nixpkgs/8b5ab8341e33322e5b66fb46ce23d724050f6606#pre-commit",
+      "source": "devbox-search",
+      "version": "3.3.3"
+    },
+    "yq@latest": {
+      "last_modified": "2023-09-19T14:14:51Z",
+      "resolved": "github:NixOS/nixpkgs/8b5ab8341e33322e5b66fb46ce23d724050f6606#yq",
+      "source": "devbox-search",
+      "version": "3.2.3"
+    }
+  }
+}

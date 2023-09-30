@@ -1,0 +1,10 @@
+{
+  "packages": [
+    "pre-commit@latest",
+    "jq@latest",
+    "yq@latest"
+  ],
+  "shell": {
+    "init_hook": "export PS1='📦 devbox> '"
+  }
+}
